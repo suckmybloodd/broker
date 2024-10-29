@@ -1,4 +1,4 @@
-const aedes = require('aedes') // Подключаем Aedes как функцию
+const aedes = require('aedes') // Подключаем Aedes
 const { createServer } = require('net')
 const jwt = require('jsonwebtoken')
 
