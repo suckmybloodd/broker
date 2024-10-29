@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist",
+      "module": "esnext",
+      "target": "esnext",
+      "strict": true
+    },
+    "files": [
+      "broker.ts",
+      "publischer.ts",
+      "subscriber.ts"
+    ]
+  }
